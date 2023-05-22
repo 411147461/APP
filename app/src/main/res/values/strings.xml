@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string-array name="note_title_text">
+        <item>Buy something</item>
+        <item>買點東西</item>
+        <item>飲料</item>
+        <item>宵夜</item>
+        <item>文具</item>
+    </string-array>
+
+    <string-array name="note_detail_text">
+        <item>sugar, candy, chocolate, </item>
+        <item>衛生紙、餐具、桌布</item>
+        <item>珍珠奶茶、鐵觀音奶茶、冬瓜茶</item>
+        <item>雞排、咸酥雞、章魚燒</item>
+        <item>回形針、文件夾、原子筆</item>
+
+    </string-array>
+
+
+</resources>
